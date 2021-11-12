@@ -5,7 +5,7 @@ class="box is-paddingless raises-on-hover"
 </template>
 
 <script>
-import { EnsoTable } from '@enso-ui/tables';
+import { EnsoTable } from '@enso-ui/tables/bulma';
 
 export default {
     name: 'Index',
