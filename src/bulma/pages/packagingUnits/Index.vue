@@ -1,10 +1,11 @@
 <template>
-    <enso-table class="box is-paddingless raises-on-hover"
+    <enso-table
+class="box is-paddingless raises-on-hover"
         id="packaging_units"/>
 </template>
 
 <script>
-import { EnsoTable } from '@enso-ui/bulma';
+import { EnsoTable } from '@enso-ui/tables/bulma';
 
 export default {
     name: 'Index',
@@ -12,6 +13,3 @@ export default {
     components: { EnsoTable },
 };
 </script>
-
-<style lang="scss">
-</style>
