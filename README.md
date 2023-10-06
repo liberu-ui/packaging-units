@@ -1,10 +1,10 @@
 # Packaging Units
 
-![npm license](https://img.shields.io/npm/l/@enso-ui/packaging-units.svg) 
-![npm download](https://img.shields.io/npm/dm/@enso-ui/packaging-units.svg) 
-![GitHub top language](https://img.shields.io/github/languages/top/enso-ui/packaging-units.svg) 
-![GitHub issues](https://img.shields.io/github/issues/enso-ui/packaging-units.svg) 
-![npm version](https://img.shields.io/npm/v/@enso-ui/packaging-units.svg) 
+![npm license](https://img.shields.io/npm/l/@liberu-ui/packaging-units.svg) 
+![npm download](https://img.shields.io/npm/dm/@liberu-ui/packaging-units.svg) 
+![GitHub top language](https://img.shields.io/github/languages/top/liberu-ui/packaging-units.svg) 
+![GitHub issues](https://img.shields.io/github/issues/liberu-ui/packaging-units.svg) 
+![npm version](https://img.shields.io/npm/v/@liberu-ui/packaging-units.svg) 
 
 ## Usage
 The component cannot be used outside of the Liberu ecosystem.
